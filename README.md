@@ -393,10 +393,6 @@ export default {
 }
 ```
 
-```
-![frontend design](https://github.com/user-attachments/assets/bf825556-1ad6-41ad-8044-2c2d32c5a6f1)
-```
-
 ### SERVER FOLDER CONTAINS :-
 ```
 ```
@@ -404,9 +400,9 @@ export default {
 import express from 'express'
 
 const app = express()
-![frontend design](https://github.com/user-attachments/assets/a1d016e0-5247-4d18-b18c-0f8646cb1f2b)
+```
 ![frontend design](https://github.com/user-attachments/assets/85d595b9-4890-413e-ae7d-0cc6dbaf4b05)
-
+```
 app.listen(3000,() => {
     console.log("Server is running")
 })
