@@ -394,6 +394,7 @@ export default {
 ```
 
 ```![frontend design](https://github.com/user-attachments/assets/d7d24a76-8cc9-4dad-972f-b4237d33acba)
+![frontend design](https://github.com/user-attachments/assets/bf825556-1ad6-41ad-8044-2c2d32c5a6f1)
 
 
 ### SERVER FOLDER CONTAINS :-
