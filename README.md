@@ -35,7 +35,7 @@ This project is a web-based application that provides a simple login and registr
 8.   Open the application in your browser at  http://localhost:5173/.
 ```
 
- NOTE :
+ ###NOTE :
  ```
  please extract frontend and server folder and open it in vscode.
  open a New terminal > select the option command  prompt under the dropdown of powershell
