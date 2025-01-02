@@ -34,7 +34,7 @@ This project is a web-based application that provides a simple login and registr
 
 8.   Open the application in your browser at  http://localhost:5173/.
 ```
-```
+
  NOTE :
  ```
  please extract frontend and server folder and open it in vscode.
