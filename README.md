@@ -32,7 +32,7 @@ This project is a web-based application that provides a simple login and registr
 
 5. To compile code is  : ``` npm run dev ```
 
-8.   Open the application in your browser at  http://localhost:5173/.
+8.   Open the application in your browser at http://localhost:5174 .
 ```
 
 ### NOTE :
@@ -41,7 +41,7 @@ This project is a web-based application that provides a simple login and registr
  open a New terminal > select the option command  prompt under the dropdown of powershell
                      > cd frontend
                      > npm run dev
-you will be getting the url click on that url and then Home keyword will be displayed then in that url add /register. Example: (http://localhost:5173/register) and click enter in order to view the register Form.                     
+you will be getting the url click on that url and then Home keyword will be displayed then in that url add /register. Example: (http://localhost:5174/register) and click enter in order to view the register Form.                     
 ```
 
 ### Frontend page design
