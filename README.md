@@ -45,6 +45,9 @@ you will be getting the url in order to view the register Form.
 ```
 ### Frontend page design
 ```
+Below link is the link please copy and paste in the chrome so that the register page will be displayed.
+link - https://github.com/user-attachments/assets/85d595b9-4890-413e-ae7d-0cc6dbaf4b05
+```
 ### Used Frameworks
 
 - **Frontend:** React, TailwindCSS
@@ -55,11 +58,8 @@ you will be getting the url in order to view the register Form.
 ```
 The frontend is designed to work seamlessly on different screen sizes Built With
 Frontend:
-  React.js
-  Tailwind CSS (for styling)
-  Backend:
-  Node.js
-  Express.js
+  React.js : Tailwind CSS (for styling)
+  Backend: Node.js & Express.js
   
 Database:
  MySQL
