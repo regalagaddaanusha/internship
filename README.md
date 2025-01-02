@@ -408,11 +408,7 @@ export default {
 ```
 ### index.js
 import express from 'express'
-
 const app = express()
-```
-![frontend design](https://github.com/user-attachments/assets/85d595b9-4890-413e-ae7d-0cc6dbaf4b05)
-```
 app.listen(3000,() => {
     console.log("Server is running")
 })
