@@ -102,7 +102,6 @@ gkb_anu/
 Here’s a concise description of each file in the folder structure :
 ### **Frontend Folder (`frontend/`)**
 ```
-```
 1. Node_modules
 Contains installed dependencies (managed by npm) for the frontend application, such as React, Vite, TailwindCSS, etc.
 ```
