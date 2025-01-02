@@ -405,7 +405,6 @@ export default {
 
 ### SERVER FOLDER CONTAINS :-
 ```
-```
 ### index.js
 import express from 'express'
 const app = express()
